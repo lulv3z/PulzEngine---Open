@@ -1,24 +1,23 @@
 # PulzEngine
 
-PulzEngine ist eine 2D-Engine, entwickelt in C/C++, die für die Erstellung von 2D-Spielen und Anwendungen optimiert ist. Sie bietet eine Vielzahl von Funktionen, darunter einen GL-Renderer, ein UI-System, ein Sound-System, ein Input-System und Cross-Platform-Unterstützung.
+PulzEngine is a 2D engine developed in C/C++, optimized for creating 2D games and applications. It offers a variety of features, including a GL renderer, a UI system, a sound system, an input system, and cross-platform support.
 
-## Funktionen
+## Features
 
-- **Grafik-Renderer:** PulzEngine verwendet OpenGL, um 2D-Grafiken zu rendern. Sie unterstützt verschiedene Grafikeffekte und Auflösungen, um beeindruckende visuelle Erlebnisse zu ermöglichen.
+- **Graphics Renderer:** PulzEngine uses OpenGL to render 2D graphics, supporting various graphical effects and resolutions for impressive visual experiences.
 
-- **UI-System:** Unser benutzerfreundliches UI-System ermöglicht die einfache Erstellung von Benutzeroberflächen, Menüs und Dialogen.
+- **UI System:** Our user-friendly UI system allows for easy creation of user interfaces, menus, and dialogs.
 
-- **Sound-System:** PulzEngine unterstützt die Wiedergabe von Musik und Soundeffekten, um die Audioqualität Ihrer Anwendung zu verbessern.
+- **Sound System:** PulzEngine supports music playback and sound effects to enhance the audio quality of your application.
 
-- **Input-System:** Mit Unterstützung für Tastatur, Maus und Gamecontroller können Benutzer nahtlos mit Ihrer Anwendung interagieren.
+- **Input System:** With support for keyboard, mouse, and game controllers, users can seamlessly interact with your application.
 
-- **Cross-Platform-Unterstützung:** Die Engine wurde entwickelt, um auf verschiedenen Betriebssystemen, einschließlich Windows, Linux und macOS, zu funktionieren.
+- **Cross-Platform Support:** The engine is designed to work on various operating systems, including Windows, Linux, and macOS.
 
+## Contributors
 
-## Mitwirkende
+- [Lulv3z](https://github.com/lulv3z) - Project owner and lead developer.
 
-- [Lulv3z](https://github.com/lulv3z) - Projektinhaber und Hauptentwickler.
+## Contact
 
-## Kontakt
-
-Wenn Sie Fragen oder Anregungen zur PulzEngine haben, können Sie uns über lulv3z.contact@gmail.com erreichen.
+If you have any questions or suggestions regarding PulzEngine, you can reach us at lulv3z.contact@gmail.com.
