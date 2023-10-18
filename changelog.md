@@ -8,7 +8,6 @@
 
 ## Version 1.0.0 (Released on 10/15/2023)
 
-- Initial release of PulzEngine.
 - Renderer Added: GL renderer for 2D graphics rendering.
 - UI System Added: User-friendly UI system for creating menus and interfaces.
 - Sound System Added: Sound system for playing music and sound effects.
